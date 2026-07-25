@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Auditoría de tarjetas Cranium</title>
+  <style>
+    html, body { margin: 0; background: #111018; color: white; font-family: monospace; }
+    #auditFrame { position: fixed; top: 0; left: 0; border: 0; opacity: 0.01; pointer-events: none; }
+    #result { white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <iframe id="auditFrame" src="../index.html"></iframe>
+  <pre id="result">Ejecutando…</pre>
+  <script src="card-layout-audit.js"></script>
+</body>
+</html>

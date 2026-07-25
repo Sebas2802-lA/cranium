@@ -1,0 +1,174 @@
+{
+    "opcionometro":  {
+                         "nombre":  "Opcionómetro",
+                         "instruccion":  "El equipo debe escoger la única opción correcta.",
+                         "instruccion_breve":  {
+                                                   "normal":  "El equipo debe escoger la única opción correcta."
+                                               },
+                         "instruccion_completa":  {
+                                                      "normal":  "El equipo debe escoger la única opción correcta."
+                                                  }
+                     },
+    "si_o_no":  {
+                    "nombre":  "Sí o no",
+                    "instruccion":  "El equipo debe decidir si la afirmación es verdadera o falsa.",
+                    "instruccion_breve":  {
+                                              "normal":  "El equipo decide si la afirmación es verdadera o falsa. Respondan antes de que termine el tiempo y después pulsen Mostrar respuesta. La prueba se supera únicamente si la clasificación es correcta."
+                                          },
+                    "instruccion_completa":  {
+                                                 "normal":  "El equipo debe decidir si la afirmación es verdadera o falsa. La persona que dirige la partida lee la afirmación y pone en marcha el reloj físico. Cuando el equipo haya respondido, pulsa Mostrar respuesta para comprobarla. La prueba se supera si el equipo clasifica correctamente la afirmación."
+                                             }
+                },
+    "par_de_dos":  {
+                       "nombre":  "Par de dos",
+                       "instruccion":  "El equipo debe identificar las dos opciones que no pertenecen al grupo.",
+                       "instruccion_breve":  {
+                                                 "normal":  "El equipo debe escoger exactamente las dos opciones que no pertenecen a la categoría. Selecciónenlas antes de que termine el tiempo y pulsen Mostrar respuesta. Ambas opciones deben ser correctas para ganar."
+                                             },
+                       "instruccion_completa":  {
+                                                    "normal":  "El equipo debe identificar exactamente las dos opciones que no pertenecen a la categoría. La persona que dirige la partida lee la categoría y las cinco opciones y pone en marcha el reloj físico. Después de que el equipo elija dos opciones, pulsa Mostrar respuesta. La prueba se supera únicamente si ambas elecciones son correctas."
+                                                }
+                   },
+    "sapienreto":  {
+                       "nombre":  "Sapienreto",
+                       "instruccion":  "El equipo debe responder correctamente la pregunta.",
+                       "instruccion_breve":  {
+                                                 "normal":  "El equipo debe resolver la pregunta antes de que termine el tiempo. Cuando haya dado su respuesta, pulsa Mostrar respuesta para comprobarla. La prueba se supera solo con una respuesta correcta."
+                                             },
+                       "instruccion_completa":  {
+                                                    "normal":  "El equipo debe encontrar la respuesta correcta a la pregunta. La persona que dirige la partida lee la pregunta y pone en marcha el reloj físico. Cuando el equipo haya respondido, pulsa Mostrar respuesta para comprobar la solución. La prueba se supera si la respuesta del equipo es correcta."
+                                                }
+                   },
+    "escultorama":  {
+                        "nombre":  "Escultorama",
+                        "instruccion":  "Un jugador modela la respuesta con masa, sin hablar ni hacer gestos.",
+                        "instruccion_breve":  {
+                                                  "normal":  "Elijan a un artista. Tras escuchar la pista, pulsa Mostrar respuesta y modela la solución con la masa. No puedes hablar ni hacer gestos, pero sí mover la masa. El equipo debe adivinarla a tiempo."
+                                              },
+                        "instruccion_completa":  {
+                                                     "normal":  "El equipo elige a un artista. La persona que dirige lee la pista y el artista pulsa Mostrar respuesta sin enseñársela a sus compañeros. Debe modelarla con la masa Cranium sin hablar ni hacer gestos. Puede mover la masa durante la prueba. El equipo gana si adivina dentro del tiempo."
+                                                 }
+                    },
+    "dibunoveo":  {
+                      "nombre":  "Dibunoveo",
+                      "instruccion":  "Un jugador dibuja con los ojos cerrados, sin hablar ni usar letras o símbolos.",
+                      "instruccion_breve":  {
+                                                "normal":  "Elijan a un artista. Tras escuchar la pista, pulsa Mostrar respuesta y dibuja con los ojos cerrados, sin hablar, letras ni símbolos. El equipo gana si adivina antes de que termine el tiempo.",
+                                                "todos_juegan":  "Un jugador dibuja con los ojos cerrados, sin hablar ni usar letras o símbolos. Todos los equipos participan y gana el primero que adivine."
+                                            },
+                      "instruccion_completa":  {
+                                                   "normal":  "El equipo elige a un artista. La persona que dirige lee la pista y el artista pulsa Mostrar respuesta sin enseñársela al equipo. Después debe dibujar con los ojos cerrados. No puede abrirlos, hablar ni utilizar letras o símbolos. La prueba se supera si el equipo adivina dentro del tiempo.",
+                                                   "todos_juegan":  "Un jugador dibuja con los ojos cerrados, sin hablar ni usar letras o símbolos. Todos los equipos participan y gana el primero que adivine."
+                                               }
+                  },
+    "pintacierta":  {
+                        "nombre":  "PintaCierta",
+                        "instruccion":  "Un jugador dibuja sin hablar y sin usar letras ni símbolos.",
+                        "instruccion_breve":  {
+                                                  "normal":  "Elijan a un artista. Tras escuchar la pista, el artista pulsa Mostrar respuesta y dibuja en silencio, sin letras ni símbolos. El equipo gana si adivina la respuesta antes de que termine el tiempo.",
+                                                  "todos_juegan":  "Un jugador dibuja sin hablar y sin usar letras ni símbolos. Todos los equipos participan y gana el primero que adivine."
+                                              },
+                        "instruccion_completa":  {
+                                                     "normal":  "El equipo elige a un artista. La persona que dirige la partida lee la pista. El artista pulsa Mostrar respuesta sin enseñársela a sus compañeros y debe conseguir que su equipo la adivine dibujando en silencio. No puede hablar ni utilizar letras o símbolos. La prueba se supera si el equipo adivina dentro del tiempo.",
+                                                     "todos_juegan":  "Un jugador dibuja sin hablar y sin usar letras ni símbolos. Todos los equipos participan y gana el primero que adivine."
+                                                 }
+                    },
+    "titerin":  {
+                    "nombre":  "Titerín",
+                    "instruccion":  "Un jugador mueve a un compañero como marioneta, sin hablar ni hacer sonidos.",
+                    "instruccion_breve":  {
+                                              "normal":  "Un jugador mueve a un compañero como marioneta, sin hablar ni hacer sonidos.",
+                                              "todos_juegan":  "Un jugador mueve a un compañero como marioneta, sin hablar ni hacer sonidos. Todos los equipos participan y gana el primero que adivine."
+                                          },
+                    "instruccion_completa":  {
+                                                 "normal":  "Un jugador mueve a un compañero como marioneta, sin hablar ni hacer sonidos.",
+                                                 "todos_juegan":  "Un jugador mueve a un compañero como marioneta, sin hablar ni hacer sonidos. Todos los equipos participan y gana el primero que adivine."
+                                             }
+                },
+    "imiton":  {
+                   "nombre":  "Imitón",
+                   "instruccion":  "Un jugador imita a un personaje famoso. Puede hablar, pero sin decir nombres de personas ni lugares.",
+                   "instruccion_breve":  {
+                                             "normal":  "Elijan a un imitador. Pulsa Mostrar respuesta e imita la voz y los gestos del personaje. Puedes hablar, pero no mencionar personas ni lugares. El equipo gana si lo identifica a tiempo.",
+                                             "todos_juegan":  "Un jugador imita a un personaje famoso. Puede hablar, pero sin decir nombres de personas ni lugares. Todos los equipos participan y gana el primero que adivine."
+                                         },
+                   "instruccion_completa":  {
+                                                "normal":  "El equipo elige a un imitador. El participante pulsa Mostrar respuesta sin enseñársela a sus compañeros e imita la forma de hablar y los gestos del famoso o personaje. Puede hablar, pero no puede pronunciar nombres de personas ni de lugares. El equipo gana si identifica al personaje dentro del tiempo.",
+                                                "todos_juegan":  "Un jugador imita a un personaje famoso. Puede hablar, pero sin decir nombres de personas ni lugares. Todos los equipos participan y gana el primero que adivine."
+                                            }
+               },
+    "adimimo":  {
+                    "nombre":  "Adimimo",
+                    "instruccion":  "Un jugador representa la respuesta mediante mímica y en completo silencio.",
+                    "instruccion_breve":  {
+                                              "normal":  "Un jugador representa la respuesta mediante mímica y en completo silencio.",
+                                              "todos_juegan":  "Un jugador representa la respuesta mediante mímica y en completo silencio. Todos los equipos participan y gana el primero que adivine."
+                                          },
+                    "instruccion_completa":  {
+                                                 "normal":  "Un jugador representa la respuesta mediante mímica y en completo silencio.",
+                                                 "todos_juegan":  "Un jugador representa la respuesta mediante mímica y en completo silencio. Todos los equipos participan y gana el primero que adivine."
+                                             }
+                },
+    "tarasilba":  {
+                      "nombre":  "Tarasilba",
+                      "instruccion":  "Un jugador silba o tararea con la boca cerrada, sin gestos ni cantar la letra.",
+                      "instruccion_breve":  {
+                                                "normal":  "Elijan a un intérprete. Pulsa Mostrar respuesta y silba o tararea con la boca cerrada, sin gestos ni letra. El equipo gana si identifica el título de la canción antes de que termine el tiempo.",
+                                                "todos_juegan":  "Un jugador silba o tararea con la boca cerrada, sin gestos ni cantar la letra. Todos los equipos participan y gana el primero que adivine."
+                                            },
+                      "instruccion_completa":  {
+                                                   "normal":  "El equipo elige a un intérprete. El participante pulsa Mostrar respuesta sin enseñársela a sus compañeros y debe conseguir que adivinen el título silbando o tarareando con la boca cerrada. No puede hacer gestos ni cantar ninguna parte de la letra. El equipo gana si identifica la canción dentro del tiempo.",
+                                                   "todos_juegan":  "Un jugador silba o tararea con la boca cerrada, sin gestos ni cantar la letra. Todos los equipos participan y gana el primero que adivine."
+                                               }
+                  },
+    "buscapalabras":  {
+                          "nombre":  "Buscapalabras",
+                          "instruccion":  "El equipo completa las letras faltantes para descubrir la respuesta.",
+                          "instruccion_breve":  {
+                                                    "normal":  "El equipo debe completar las letras que faltan usando la pista y el patrón visible. Resuelvan la palabra o expresión antes de que termine el tiempo y pulsen Mostrar respuesta para comprobarla."
+                                                },
+                          "instruccion_completa":  {
+                                                       "normal":  "El equipo debe descubrir las letras ocultas y completar correctamente la respuesta indicada por el patrón. La persona que dirige lee la pista y pone en marcha el reloj físico. Cuando el equipo crea haber resuelto el enigma, pulsa Mostrar respuesta para comprobarlo. La prueba se supera si la palabra o expresión coincide."
+                                                   }
+                      },
+    "lexicon":  {
+                    "nombre":  "Lexicón",
+                    "instruccion":  "El equipo debe escoger la definición correcta de la palabra.",
+                    "instruccion_breve":  {
+                                              "normal":  "El equipo debe elegir cuál de las cuatro definiciones corresponde a la palabra. Seleccionen una opción antes de que termine el tiempo y pulsen Mostrar respuesta. La prueba se supera si aciertan."
+                                          },
+                    "instruccion_completa":  {
+                                                 "normal":  "El equipo debe elegir la definición correcta de la palabra entre las cuatro opciones disponibles. La persona que dirige lee la palabra y las definiciones y pone en marcha el reloj físico. Después de que el equipo elija una opción, pulsa Mostrar respuesta. La prueba se supera si la definición seleccionada es correcta."
+                                             }
+                },
+    "ordenigma":  {
+                      "nombre":  "Ordenigma",
+                      "instruccion":  "El equipo reordena las letras del anagrama. Los acentos y signos no cuentan.",
+                      "instruccion_breve":  {
+                                                "normal":  "Reordenen las letras del anagrama para encontrar la respuesta relacionada con la pista. No cuentan espacios, signos ni tildes. Resuélvanlo dentro del tiempo y pulsen Mostrar respuesta para comprobarlo."
+                                            },
+                      "instruccion_completa":  {
+                                                   "normal":  "El equipo debe reorganizar las letras del anagrama para descubrir la respuesta relacionada con la pista. La persona que dirige lee la pista y el anagrama y pone en marcha el reloj físico. Al comprobar las letras no cuentan los espacios, los signos de puntuación ni las tildes. Pulsa Mostrar respuesta cuando el equipo haya terminado."
+                                               }
+                  },
+    "piensaigual":  {
+                        "nombre":  "Piensaigual",
+                        "instruccion":  "Cada jugador escribe tres palabras sobre el tema. El equipo gana si al menos dos coinciden.",
+                        "instruccion_breve":  {
+                                                  "normal":  "Cada jugador escribe tres palabras sobre el tema. El equipo gana si al menos dos coinciden."
+                                              },
+                        "instruccion_completa":  {
+                                                     "normal":  "Cada jugador escribe tres palabras sobre el tema. El equipo gana si al menos dos coinciden."
+                                                 }
+                    },
+    "todos_patras":  {
+                         "nombre":  "Todos Patrás",
+                         "instruccion":  "El equipo deletrea la palabra al revés, alternándose y sin escribirla.",
+                         "instruccion_breve":  {
+                                                   "normal":  "Alternándose, cada integrante dice una letra para deletrear la palabra al revés. Deben lograrlo al primer intento, sin escribir y conservando tildes y diéresis. Pulsen Mostrar respuesta para comprobarla."
+                                               },
+                         "instruccion_completa":  {
+                                                      "normal":  "La persona que dirige lee la palabra y pone en marcha el reloj físico. Los integrantes del equipo deben deletrearla al revés, alternándose para decir una letra cada uno. Deben acertar en el primer intento, sin escribir y conservando las tildes y diéresis. Al terminar, pulsa Mostrar respuesta para comprobar el orden."
+                                                  }
+                     }
+}

@@ -1,0 +1,3398 @@
+[
+    {
+        "id":  "roja-001",
+        "numero":  1,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de los siguientes no se considera un signo de agua?",
+        "opciones":  [
+                         "Cáncer",
+                         "Acuario",
+                         "Escorpio",
+                         "Piscis"
+                     ],
+        "respuesta":  "Acuario",
+        "explicacion":  "Cáncer, Escorpio y Piscis son signos de agua.",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-002",
+        "numero":  2,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "Según la interpretación tradicional, ¿qué significa el nombre quechua Qosqo, correspondiente a la ciudad de Cusco?",
+        "opciones":  [
+                         "Ombligo",
+                         "red de caminos",
+                         "puerta",
+                         "inca de oro"
+                     ],
+        "respuesta":  "Ombligo",
+        "explicacion":  "Es la interpretación tradicional más difundida.",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-003",
+        "numero":  3,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de los siguientes países fue el último en independizarse de España?",
+        "opciones":  [
+                         "México",
+                         "Cuba",
+                         "Venezuela",
+                         "Chile"
+                     ],
+        "respuesta":  "Cuba",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-004",
+        "numero":  4,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál es la primera persona del singular del presente de indicativo del verbo «asir»?",
+        "opciones":  [
+                         "Aso",
+                         "asío",
+                         "aseo",
+                         "asgo"
+                     ],
+        "respuesta":  "Asgo",
+        "explicacion":  "La forma correcta es «yo asgo».",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-005",
+        "numero":  5,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué escala se utiliza para medir el picor de los chiles y pimientos?",
+        "opciones":  [
+                         "Escala Hemingway",
+                         "escala Trevi",
+                         "escala Scoville",
+                         "escala Canaca"
+                     ],
+        "respuesta":  "Escala Scoville",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-006",
+        "numero":  6,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "Según el Catecismo de la Iglesia católica, ¿cuál de las siguientes conductas no se considera un pecado?",
+        "opciones":  [
+                         "No votar",
+                         "llevar minifalda",
+                         "consultar los horóscopos",
+                         "no pagar impuestos"
+                     ],
+        "respuesta":  "Llevar minifalda",
+        "explicacion":  "Es la respuesta prevista por la tarjeta original.",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-007",
+        "numero":  7,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿En función de qué se definió originalmente el metro?",
+        "opciones":  [
+                         "La velocidad de la luz",
+                         "la altura más cómoda para una mesa",
+                         "la distancia entre el polo norte y el ecuador pasando por París",
+                         "el espectro del átomo de criptón-86"
+                     ],
+        "respuesta":  "La distancia entre el polo norte y el ecuador pasando por París",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-008",
+        "numero":  8,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "Según la documentación francesa, ¿en qué ciudad nació Carlos Gardel?",
+        "opciones":  [
+                         "Buenos Aires",
+                         "Nueva York",
+                         "Toulouse",
+                         "Medellín"
+                     ],
+        "respuesta":  "Toulouse, Francia",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-009",
+        "numero":  9,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué intervalo incluye una frecuencia cardiaca media habitual de un adulto despierto y en reposo?",
+        "opciones":  [
+                         "De 15 a 30",
+                         "de 45 a 60",
+                         "de 70 a 85",
+                         "de 90 a 105 pulsaciones por minuto"
+                     ],
+        "respuesta":  "De 70 a 85 pulsaciones por minuto",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-010",
+        "numero":  10,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de las siguientes opciones representa la mayor agudeza visual?",
+        "opciones":  [
+                         "20/15",
+                         "20/20",
+                         "20/40",
+                         "10/20"
+                     ],
+        "respuesta":  "20/15",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-011",
+        "numero":  11,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "Niké es la diosa griega de…",
+        "opciones":  [
+                         "La victoria",
+                         "la competencia",
+                         "los zapatos",
+                         "el vuelo"
+                     ],
+        "respuesta":  "La victoria",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-012",
+        "numero":  12,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué género musical destaca especialmente en la obra de Carlos Vives?",
+        "opciones":  [
+                         "Bachata",
+                         "vallenato",
+                         "merengue",
+                         "salsa"
+                     ],
+        "respuesta":  "Vallenato",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-013",
+        "numero":  13,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estas actrices colombianas fue nominada al Óscar por una película estrenada en 2004?",
+        "opciones":  [
+                         "Angie Cepeda",
+                         "Catalina Sandino Moreno",
+                         "Sofía Vergara",
+                         "Ana María Orozco"
+                     ],
+        "respuesta":  "Catalina Sandino Moreno",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-014",
+        "numero":  14,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuántas veces cabría aproximadamente el territorio de El Salvador en el territorio de Canadá?",
+        "opciones":  [
+                         "170",
+                         "270",
+                         "370",
+                         "470"
+                     ],
+        "respuesta":  "470",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-015",
+        "numero":  15,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué nombre reciben las espectaculares líneas que representan figuras y decoran el desierto peruano?",
+        "opciones":  [
+                         "Líneas de la Vida",
+                         "líneas de Inti",
+                         "líneas de Nazca",
+                         "líneas de Pichu"
+                     ],
+        "respuesta":  "Líneas de Nazca",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-016",
+        "numero":  16,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Con qué apodo se conoce al cantante español Raphael?",
+        "opciones":  [
+                         "El Príncipe de la Canción",
+                         "el Divo de Linares",
+                         "la Voz de Juárez",
+                         "el Rey de la Madre Patria"
+                     ],
+        "respuesta":  "El Divo de Linares",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-017",
+        "numero":  17,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de los siguientes no fue un pirata o corsario del Caribe?",
+        "opciones":  [
+                         "Francis Drake",
+                         "Barbarroja",
+                         "John Hawkins",
+                         "el Olonés"
+                     ],
+        "respuesta":  "Barbarroja",
+        "explicacion":  "El Olonés, Drake y Hawkins actuaron en el Atlántico o el Caribe; los hermanos Barbarroja estuvieron vinculados principalmente al Mediterráneo y al Imperio otomano.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-018",
+        "numero":  18,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de las siguientes obras no pertenece a Octavio Paz?",
+        "opciones":  [
+                         "Pedro Páramo",
+                         "El laberinto de la soledad",
+                         "Puertas al campo",
+                         "Libertad bajo palabra"
+                     ],
+        "respuesta":  "Pedro Páramo",
+        "explicacion":  "Es una novela de Juan Rulfo.",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-019",
+        "numero":  19,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál fue el primer gran éxito comercial de los videojuegos de máquinas recreativas?",
+        "opciones":  [
+                         "Pong",
+                         "Space Invaders",
+                         "Pac-Man",
+                         "Tetris"
+                     ],
+        "respuesta":  "Pong",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-020",
+        "numero":  20,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de las siguientes no es una cita atribuida habitualmente al Che Guevara?",
+        "opciones":  [
+                         "Hasta la victoria siempre",
+                         "si no hay café para todos, no habrá para nadie",
+                         "el conocimiento nos hace responsables",
+                         "la esperanza es el sueño de los que están despiertos"
+                     ],
+        "respuesta":  "La esperanza es el sueño de los que están despiertos",
+        "explicacion":  "Se atribuye tradicionalmente a Aristóteles.",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-021",
+        "numero":  21,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿En qué país moderno se encuentra Tombuctú?",
+        "opciones":  [
+                         "Uzbekistán",
+                         "Tayikistán",
+                         "Mali",
+                         "en ninguno, es una ciudad ficticia"
+                     ],
+        "respuesta":  "Mali",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-022",
+        "numero":  22,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "Según una leyenda popular, ¿qué significado se dio a «Yucatán» cuando los españoles bautizaron la península?",
+        "opciones":  [
+                         "No te entiendo",
+                         "vete de aquí",
+                         "lozana floresta",
+                         "rostro pálido"
+                     ],
+        "respuesta":  "No te entiendo",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-023",
+        "numero":  23,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Entre qué ciudades se realizó en 1927 uno de los primeros vuelos regulares internacionales de Pan American Airways?",
+        "opciones":  [
+                         "Ciudad de México–Nueva York",
+                         "Cayo Hueso–La Habana",
+                         "Caracas–Washington",
+                         "Santo Domingo–Cancún"
+                     ],
+        "respuesta":  "Cayo Hueso–La Habana",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-024",
+        "numero":  24,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuántos dientes de leche puede perder una persona durante la infancia?",
+        "opciones":  [
+                         "12",
+                         "20",
+                         "28",
+                         "32"
+                     ],
+        "respuesta":  "20",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-025",
+        "numero":  25,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué animal se ordeña para producir la mozzarella tradicional de búfala?",
+        "opciones":  [
+                         "Vacas",
+                         "ovejas",
+                         "cabras",
+                         "búfalas"
+                     ],
+        "respuesta":  "Búfalas",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-026",
+        "numero":  26,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estas lenguas no fue creada artificialmente durante los últimos dos siglos?",
+        "opciones":  [
+                         "Esperanto",
+                         "volapük",
+                         "klingon",
+                         "tagalo"
+                     ],
+        "respuesta":  "Tagalo",
+        "explicacion":  "Es una lengua natural de Filipinas.",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-027",
+        "numero":  27,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "Según una frase atribuida a Thomas Edison, ¿qué está compuesto por 1 % de inspiración y 99 % de transpiración?",
+        "opciones":  [
+                         "La invención",
+                         "el amor",
+                         "el éxito",
+                         "el genio"
+                     ],
+        "respuesta":  "El genio",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-028",
+        "numero":  28,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de los siguientes animales puede alcanzar la esperanza de vida más larga?",
+        "opciones":  [
+                         "Galápago",
+                         "elefante asiático",
+                         "humano",
+                         "ballena azul"
+                     ],
+        "respuesta":  "Galápago",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-029",
+        "numero":  29,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál sería el equivalente cultural argentino del charro mexicano?",
+        "opciones":  [
+                         "Gaucho",
+                         "mate",
+                         "che",
+                         "porteño"
+                     ],
+        "respuesta":  "Gaucho",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-030",
+        "numero":  30,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de los siguientes no es un idioma indígena de México?",
+        "opciones":  [
+                         "náhuatl",
+                         "maya",
+                         "mixteco",
+                         "guanche"
+                     ],
+        "respuesta":  "guanche",
+        "explicacion":  "Es una lengua bereber que se hablaba en las islas Canarias.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-031",
+        "numero":  31,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Sobre qué comunidad trata la película Luz silenciosa, de Carlos Reygadas?",
+        "opciones":  [
+                         "Hippies",
+                         "menonitas",
+                         "monjas de clausura",
+                         "hare krishnas"
+                     ],
+        "respuesta":  "Menonitas",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-032",
+        "numero":  32,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de los siguientes no es una sede gubernamental de un país latinoamericano?",
+        "opciones":  [
+                         "Casa Rosada",
+                         "Palacio de La Moneda",
+                         "La Moncloa",
+                         "Palacio de Miraflores"
+                     ],
+        "respuesta":  "La Moncloa",
+        "explicacion":  "Es la sede del Gobierno de España.",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-033",
+        "numero":  33,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de las siguientes no es actualmente el nombre oficial de una moneda de un país latinoamericano?",
+        "opciones":  [
+                         "Sol",
+                         "córdoba",
+                         "escudo",
+                         "colón"
+                     ],
+        "respuesta":  "Escudo",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-034",
+        "numero":  34,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué planeta completa una vuelta alrededor del Sol en menos tiempo?",
+        "opciones":  [
+                         "Mercurio",
+                         "Venus",
+                         "Tierra",
+                         "Marte"
+                     ],
+        "respuesta":  "Mercurio",
+        "explicacion":  "Su año dura aproximadamente 88 días terrestres.",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-035",
+        "numero":  35,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estas provincias ecuatorianas no tiene costa marítima?",
+        "opciones":  [
+                         "Esmeraldas",
+                         "Manabí",
+                         "Santa Elena",
+                         "Los Ríos"
+                     ],
+        "respuesta":  "Los Ríos",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-036",
+        "numero":  36,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de las siguientes palabras es esdrújula?",
+        "opciones":  [
+                         "Reloj",
+                         "brújula",
+                         "pared",
+                         "papel"
+                     ],
+        "respuesta":  "Brújula",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-037",
+        "numero":  37,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué elemento químico tiene el símbolo Sn?",
+        "opciones":  [
+                         "Sodio",
+                         "silicio",
+                         "estaño",
+                         "antimonio"
+                     ],
+        "respuesta":  "Estaño",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-038",
+        "numero":  38,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué detective ficticio fue creado por Arthur Conan Doyle?",
+        "opciones":  [
+                         "Hercule Poirot",
+                         "Sherlock Holmes",
+                         "Arsène Lupin",
+                         "Philip Marlowe"
+                     ],
+        "respuesta":  "Sherlock Holmes",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-039",
+        "numero":  39,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La Constitución de Estados Unidos establece que los idiomas oficiales del país son el inglés y el español.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-040",
+        "numero":  40,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Existen estudios estadísticos fiables que demuestran sin ninguna duda que nacen más bebés cuando hay luna llena.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-041",
+        "numero":  41,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Estados Unidos es el país que más largometrajes produce cada año.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-042",
+        "numero":  42,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La palabra «ojalá» procede del árabe.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-043",
+        "numero":  43,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La primera lengua de Napoleón Bonaparte fue el italiano.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-044",
+        "numero":  44,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El agua salada hierve más rápidamente que el agua dulce en las mismas condiciones.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-045",
+        "numero":  45,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El pulmón derecho de los seres humanos es idéntico al izquierdo.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-046",
+        "numero":  46,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Argentina fue el primer país sudamericano en celebrar una Copa Mundial de Fútbol.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-047",
+        "numero":  47,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Un cuadrado es un rectángulo.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-048",
+        "numero":  48,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Lorena Ochoa es bailarina de ballet.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-049",
+        "numero":  49,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El lago de Atitlán se encuentra en la antigua ciudad de Teotihuacán.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-050",
+        "numero":  50,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Hombres y mujeres compiten directamente entre sí en algunos deportes olímpicos.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-051",
+        "numero":  51,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El xoloitzcuintle es la única raza canina sin pelo del mundo.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-052",
+        "numero":  52,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "En Surinam, un hombre se puede casar con la hermana de su viuda.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-053",
+        "numero":  53,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El hombre tiene una costilla menos que la mujer.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-054",
+        "numero":  54,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Vincent van Gogh fue predicador antes de dedicarse plenamente a la pintura.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-055",
+        "numero":  55,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Julio César ordenó crear un plato desengrasante que recibió el nombre de ensalada César.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-056",
+        "numero":  56,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Si dejáramos caer una pluma y una pelota de hielo en un tubo al vacío, ambas llegarían al suelo al mismo tiempo.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-057",
+        "numero":  57,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Cerrar los ojos suele dificultar mantener el equilibrio.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-058",
+        "numero":  58,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Mick Jagger estudió en la London School of Economics.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-059",
+        "numero":  59,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El chocolate blanco no contiene polvo de cacao.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-060",
+        "numero":  60,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La vainilla se obtiene de una planta perteneciente a la familia de las orquídeas.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-061",
+        "numero":  61,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Hugo Sánchez fue jugador del FC Barcelona.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-062",
+        "numero":  62,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La Real Academia Española incluye la palabra «cantinflear», inspirada en Cantinflas.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-063",
+        "numero":  63,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Las personas con el llamado síndrome de Peter Pan creen que pueden volar.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-064",
+        "numero":  64,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Shakira nació en el Líbano.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-065",
+        "numero":  65,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Una de las teorías etimológicas relaciona las palabras «ceviche» y «escabeche» con un mismo origen árabe.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "La RAE presenta para ambas palabras una posible procedencia del árabe hispánico assukkabáǧ. No está demostrado que «ceviche» proceda directamente de la palabra española «escabeche».",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-066",
+        "numero":  66,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La plaza de toros de Las Ventas, en Madrid, es la mayor del mundo.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-067",
+        "numero":  67,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El acero se puede cortar utilizando agua a muy alta presión.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-068",
+        "numero":  68,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Dos de los tres regalos de los Reyes Magos eran productos obtenidos de árboles.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-069",
+        "numero":  69,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Según una leyenda popular, algunos religiosos europeos consideraron el café una bebida satánica hasta que el papa Clemente VIII lo probó y lo aprobó.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "La anécdota está muy difundida, pero no debe presentarse como un hecho histórico plenamente documentado.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-070",
+        "numero":  70,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La línea del ecuador no pasa por Ecuador.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-071",
+        "numero":  71,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El único número primo par es el 2.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-072",
+        "numero":  72,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Si se duplica el radio de un círculo, su área también se duplica.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-073",
+        "numero":  73,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Todo cuadrado es también un rombo.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-074",
+        "numero":  74,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El símbolo químico del potasio es P.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-075",
+        "numero":  75,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Un dodecágono tiene doce lados.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-076",
+        "numero":  76,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "En un año bisiesto, febrero tiene 29 días.",
+        "respuesta":  "Falso",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-077",
+        "numero":  77,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Si una pareja celebró sus bodas de rubí en 2015, ¿en qué año se casó?",
+        "respuesta":  "Las bodas de rubí celebran 40 años",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-078",
+        "numero":  78,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué cóctel de ron blanco, azúcar de caña, lima o limón, agua con gas y hierbabuena se relaciona popularmente con Ernest Hemingway?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-079",
+        "numero":  79,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿En qué actriz mexicana se inspiró Agustín Lara para escribir «María Bonita»?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-080",
+        "numero":  80,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cuál fue la telenovela colombiana original cuya historia fue adaptada posteriormente como Pasión de gavilanes y Fuego en la sangre?",
+        "respuesta":  "Las aguas mansas",
+        "explicacion":  "Pasión de gavilanes también es una adaptación de esa historia, pero no es la versión original.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-081",
+        "numero":  81,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "En un campo hay cuatro vacas, tres patos y dos conejos. ¿Cuántas patas y cabezas hay en total?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-082",
+        "numero":  82,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Hay dos pares de calcetines blancos, dos pares negros y dos pares rojos. ¿Cuántos debes sacar a oscuras para garantizar un par rojo?",
+        "respuesta":  "En el peor caso salen primero los ocho que no son rojos",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-083",
+        "numero":  83,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué número representan los números romanos CMLXXVIII?",
+        "respuesta":  "CM = 900, L = 50, XX = 20 y VIII = 8",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-084",
+        "numero":  84,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Con qué nombre se conoce habitualmente el primer gol de Maradona contra Inglaterra en México 1986?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-085",
+        "numero":  85,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué palabra puede formarse con los símbolos químicos Ca, Fe y S?",
+        "respuesta":  "Ca + Fe + S forma «CaFeS»",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-086",
+        "numero":  86,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿En qué novela aparece una receta de codornices en pétalos de rosa?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-087",
+        "numero":  87,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué otro país, además de Panamá, fue considerado seriamente por Estados Unidos para construir un canal interoceánico?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-088",
+        "numero":  88,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué número sigue en la serie 2, 3, 5, 9, 17, 33?",
+        "respuesta":  "Cada término es el anterior multiplicado por 2 y menos 1",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-089",
+        "numero":  89,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué rasgo facial parece faltarle a la Mona Lisa?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-090",
+        "numero":  90,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cómo se llamaba la mascota del Mundial de México 1986?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-091",
+        "numero":  91,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué insecto fue utilizado como símbolo de cooperación entre los países del TLCAN?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-092",
+        "numero":  92,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué artista mexicana vivió en la Casa Azul?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-093",
+        "numero":  93,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Si superpones magenta, cian y amarillo como pigmentos, ¿qué color se obtiene teóricamente?",
+        "respuesta":  "Con pigmentos reales puede obtenerse un tono muy oscuro",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-094",
+        "numero":  94,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué parte del cuerpo contiene el martillo, el yunque y el estribo?",
+        "respuesta":  "Son los tres huesecillos del oído",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-095",
+        "numero":  95,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué instrumento toca Lisa Simpson?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-096",
+        "numero":  96,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué animal parece descender por la pirámide de Kukulcán en Chichén Itzá durante los equinoccios?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-097",
+        "numero":  97,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "En un recorrido geográfico teórico por la costa atlántica desde Buenos Aires hasta Caracas, pasando por todos los territorios costeros y contando la Guayana Francesa como parte de Francia, ¿por cuántos países soberanos pasarías?",
+        "respuesta":  "7",
+        "explicacion":  "Argentina, Uruguay, Brasil, Francia, Surinam, Guyana y Venezuela. La Guayana Francesa es parte integral de Francia.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-098",
+        "numero":  98,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué vitamina produce el organismo gracias a la exposición de la piel a la luz solar?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-099",
+        "numero":  99,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué días de la semana tienen tantas vocales como consonantes?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-100",
+        "numero":  100,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Desde qué ciudad se puede enviar una postal de los clavadistas de La Quebrada?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-101",
+        "numero":  101,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cómo se llama el hermano menor de Mafalda?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-102",
+        "numero":  102,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cuál es el apellido de la familia protagonista de Cien años de soledad?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-103",
+        "numero":  103,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué letra está justo debajo de la A en un teclado QWERTY español?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-104",
+        "numero":  104,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué tiene de peculiar la expresión «El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja»?",
+        "respuesta":  "Contiene todas las letras del alfabeto español",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-105",
+        "numero":  105,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Paraguay es uno de los dos países soberanos de Sudamérica sin costa marítima. ¿Cuál es el otro?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-106",
+        "numero":  106,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Un reloj tarda cinco segundos en dar seis campanadas. ¿Cuánto tardará en dar doce campanadas al mismo ritmo?",
+        "respuesta":  "Seis campanadas tienen cinco intervalos y doce tienen once",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-107",
+        "numero":  107,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Un granjero tenía 17 ovejas. Todas menos nueve escaparon. ¿Cuántas quedaron?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-108",
+        "numero":  108,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué número representa XLIV en números romanos?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-109",
+        "numero":  109,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué palabra se forma al unir los símbolos químicos C, Ar y Ta?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-110",
+        "numero":  110,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cuántos lados suman tres hexágonos y dos triángulos?",
+        "respuesta":  "(3 × 6 + 2 × 3 = 24)",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-111",
+        "numero":  111,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cuál es el menor número de tres cifras que se lee igual en ambos sentidos?",
+        "respuesta":  "—",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-112",
+        "numero":  112,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cuánto es una docena más media docena menos un cuarto de docena?",
+        "respuesta":  "(12+6-3=15)",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-113",
+        "numero":  113,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cuántas veces puedes restar 10 de 100?",
+        "respuesta":  "Después de la primera resta, ya estarías restando 10 de 90",
+        "explicacion":  "",
+        "origen":  "reemplazo_de_imagen"
+    },
+    {
+        "id":  "roja-114",
+        "numero":  114,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Dinosaurios",
+        "opciones":  [
+                         "chasmosaurio",
+                         "estegosaurio",
+                         "trexosaurio",
+                         "triceratops",
+                         "enormosaurio"
+                     ],
+        "respuesta":  [
+                          "trexosaurio",
+                          "enormosaurio"
+                      ],
+        "explicacion":  "Chasmosaurus, Stegosaurus y Triceratops son dinosaurios reconocidos; los otros dos nombres son inventados.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-115",
+        "numero":  115,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Animales del zodíaco chino",
+        "opciones":  [
+                         "Perro",
+                         "pato",
+                         "león",
+                         "dragón",
+                         "rata"
+                     ],
+        "respuesta":  [
+                          "Pato",
+                          "león"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-116",
+        "numero":  116,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Festivales o certámenes musicales",
+        "opciones":  [
+                         "Cannes",
+                         "Sanremo",
+                         "Eurovisión",
+                         "Viña del Mar",
+                         "Sundance"
+                     ],
+        "respuesta":  [
+                          "Cannes",
+                          "Sundance"
+                      ],
+        "explicacion":  "Son festivales de cine.",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-117",
+        "numero":  117,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Figuras literarias",
+        "opciones":  [
+                         "Oxímoron",
+                         "polisíndeton",
+                         "esplenio",
+                         "quiasmo",
+                         "hipotenusa"
+                     ],
+        "respuesta":  [
+                          "Esplenio",
+                          "hipotenusa"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-118",
+        "numero":  118,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Jugadores de fútbol",
+        "opciones":  [
+                         "El Pibe Valderrama",
+                         "Lorena Ochoa",
+                         "Jairo Patiño",
+                         "Antonio Salazar Castillo",
+                         "Juan Pablo Montoya"
+                     ],
+        "respuesta":  [
+                          "Lorena Ochoa",
+                          "Juan Pablo Montoya"
+                      ],
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-119",
+        "numero":  119,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Ganadores del Premio Nobel de Literatura",
+        "opciones":  [
+                         "Gabriela Mistral",
+                         "Mario Vargas Llosa",
+                         "Pablo Neruda",
+                         "Jorge Luis Borges",
+                         "Julio Cortázar"
+                     ],
+        "respuesta":  [
+                          "Jorge Luis Borges",
+                          "Julio Cortázar"
+                      ],
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-120",
+        "numero":  120,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Ciudades junto al mar",
+        "opciones":  [
+                         "Caracas",
+                         "Ciudad de Panamá",
+                         "Tegucigalpa",
+                         "Lima",
+                         "Valparaíso"
+                     ],
+        "respuesta":  [
+                          "Caracas",
+                          "Tegucigalpa"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-121",
+        "numero":  121,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Chiles",
+        "opciones":  [
+                         "Poblano",
+                         "del fuego",
+                         "habanero",
+                         "manchego",
+                         "serrano"
+                     ],
+        "respuesta":  [
+                          "Del fuego",
+                          "manchego"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-122",
+        "numero":  122,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Instrumentos de viento madera",
+        "opciones":  [
+                         "Fagot",
+                         "lira",
+                         "clarinete",
+                         "oboe",
+                         "trompa"
+                     ],
+        "respuesta":  [
+                          "Lira",
+                          "trompa"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-123",
+        "numero":  123,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Esposas de Enrique VIII",
+        "opciones":  [
+                         "Ana Bolena",
+                         "Catalina la Grande",
+                         "Juana Seymour",
+                         "María Antonieta",
+                         "Ana de Cleves"
+                     ],
+        "respuesta":  [
+                          "Catalina la Grande",
+                          "María Antonieta"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-124",
+        "numero":  124,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Estadios",
+        "opciones":  [
+                         "Monumental",
+                         "Macondo",
+                         "Camp Nou",
+                         "Maracaná",
+                         "mazamorra"
+                     ],
+        "respuesta":  [
+                          "Macondo",
+                          "mazamorra"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-125",
+        "numero":  125,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Artes marciales japonesas",
+        "opciones":  [
+                         "Karate",
+                         "sashimi",
+                         "capoeira",
+                         "judo",
+                         "jiu-jitsu"
+                     ],
+        "respuesta":  [
+                          "Sashimi",
+                          "capoeira"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-126",
+        "numero":  126,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Ciudades de la franquicia clásica CSI",
+        "opciones":  [
+                         "Los Ángeles",
+                         "Miami",
+                         "Nueva York",
+                         "Chicago",
+                         "Las Vegas"
+                     ],
+        "respuesta":  [
+                          "Los Ángeles",
+                          "Chicago"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-127",
+        "numero":  127,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Criaturas mitológicas",
+        "opciones":  [
+                         "Arpía",
+                         "minotauro",
+                         "Spider-Cerdo",
+                         "gorgona",
+                         "gobo"
+                     ],
+        "respuesta":  [
+                          "Spider-Cerdo",
+                          "gobo"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-128",
+        "numero":  128,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Princesas de Disney",
+        "opciones":  [
+                         "Ariel",
+                         "Mulan",
+                         "Xuxa",
+                         "Cenicienta",
+                         "Daisy"
+                     ],
+        "respuesta":  [
+                          "Xuxa",
+                          "Daisy"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-129",
+        "numero":  129,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Discos de Alejandro Sanz",
+        "opciones":  [
+                         "El alma al aire",
+                         "Más",
+                         "A medio vivir",
+                         "El tren de los momentos",
+                         "La tortura"
+                     ],
+        "respuesta":  [
+                          "A medio vivir",
+                          "La tortura"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-130",
+        "numero":  130,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Verbos intransitivos",
+        "opciones":  [
+                         "Delinquir",
+                         "enjuagar",
+                         "crecer",
+                         "salir",
+                         "acariciar"
+                     ],
+        "respuesta":  [
+                          "Enjuagar",
+                          "acariciar"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-131",
+        "numero":  131,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Términos musicales",
+        "opciones":  [
+                         "Crescendo",
+                         "sforzando",
+                         "delicioso",
+                         "ritardando",
+                         "abrigato"
+                     ],
+        "respuesta":  [
+                          "Delicioso",
+                          "abrigato"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-132",
+        "numero":  132,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Índices bursátiles",
+        "opciones":  [
+                         "FTSE 100",
+                         "Nikkei 225",
+                         "Wall Street Institute",
+                         "IBEX 35",
+                         "IAMT 320"
+                     ],
+        "respuesta":  [
+                          "Wall Street Institute",
+                          "IAMT 320"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-133",
+        "numero":  133,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Películas de Pixar",
+        "opciones":  [
+                         "Los Increíbles",
+                         "Monsters, Inc.",
+                         "El espantatiburones",
+                         "Buscando a Nemo",
+                         "La era de hielo"
+                     ],
+        "respuesta":  [
+                          "El espantatiburones",
+                          "La era de hielo"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-134",
+        "numero":  134,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Gases nobles",
+        "opciones":  [
+                         "Obregón",
+                         "argón",
+                         "muflón",
+                         "xenón",
+                         "criptón"
+                     ],
+        "respuesta":  [
+                          "Obregón",
+                          "muflón"
+                      ],
+        "explicacion":  "Argón, xenón y criptón son gases nobles.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-135",
+        "numero":  135,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Tipos de pasta",
+        "opciones":  [
+                         "Fusilli",
+                         "ñoqui",
+                         "espátula",
+                         "rigatoni",
+                         "panceta"
+                     ],
+        "respuesta":  [
+                          "Espátula",
+                          "panceta"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-136",
+        "numero":  136,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Músicos de Bremen",
+        "opciones":  [
+                         "Burro",
+                         "perro",
+                         "cerdo",
+                         "gallo",
+                         "pato"
+                     ],
+        "respuesta":  [
+                          "Cerdo",
+                          "pato"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-137",
+        "numero":  137,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Roedores",
+        "opciones":  [
+                         "capibara",
+                         "tuco-tuco",
+                         "pestosa",
+                         "coipo",
+                         "yumi-yumi"
+                     ],
+        "respuesta":  [
+                          "pestosa",
+                          "yumi-yumi"
+                      ],
+        "explicacion":  "El coipo es un roedor sudamericano al que en algunas regiones también se llama «nutria», de ahí la ambigüedad de la versión anterior.",
+        "origen":  "original_modificada"
+    },
+    {
+        "id":  "roja-138",
+        "numero":  138,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Países sin frontera con Bolivia",
+        "opciones":  [
+                         "Ecuador",
+                         "Brasil",
+                         "Uruguay",
+                         "Paraguay",
+                         "Chile"
+                     ],
+        "respuesta":  [
+                          "Ecuador",
+                          "Uruguay"
+                      ],
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-139",
+        "numero":  139,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Colores de los anillos olímpicos",
+        "opciones":  [
+                         "Azul",
+                         "negro",
+                         "naranja",
+                         "verde",
+                         "marrón"
+                     ],
+        "respuesta":  [
+                          "Naranja",
+                          "marrón"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-140",
+        "numero":  140,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Personajes de Village People",
+        "opciones":  [
+                         "Vaquero",
+                         "peluquero",
+                         "policía",
+                         "bombero",
+                         "albañil"
+                     ],
+        "respuesta":  [
+                          "Peluquero",
+                          "bombero"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-141",
+        "numero":  141,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Posturas de yoga",
+        "opciones":  [
+                         "Cuervo",
+                         "rosca",
+                         "montaña",
+                         "puente",
+                         "carretilla"
+                     ],
+        "respuesta":  [
+                          "Rosca",
+                          "carretilla"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-142",
+        "numero":  142,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Personajes de Lost",
+        "opciones":  [
+                         "Jack Shephard",
+                         "Jack Bauer",
+                         "Sayid Jarrah",
+                         "Benjamin Linus",
+                         "Tony Soprano"
+                     ],
+        "respuesta":  [
+                          "Jack Bauer",
+                          "Tony Soprano"
+                      ],
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-143",
+        "numero":  143,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Huesos",
+        "opciones":  [
+                         "Rúgula",
+                         "escápula",
+                         "escrófula",
+                         "rótula",
+                         "ulna"
+                     ],
+        "respuesta":  [
+                          "Rúgula",
+                          "escrófula"
+                      ],
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-144",
+        "numero":  144,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Colores del cubo de Rubik tradicional",
+        "opciones":  [
+                         "Blanco",
+                         "rojo",
+                         "naranja",
+                         "morado",
+                         "rosa"
+                     ],
+        "respuesta":  [
+                          "Morado",
+                          "rosa"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-145",
+        "numero":  145,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Discos de U2",
+        "opciones":  [
+                         "Boy",
+                         "War",
+                         "Snap",
+                         "Pop",
+                         "TikTok"
+                     ],
+        "respuesta":  [
+                          "Snap",
+                          "TikTok"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-146",
+        "numero":  146,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Constelaciones",
+        "opciones":  [
+                         "Andrómeda",
+                         "Orión",
+                         "Calígula",
+                         "Osa Mayor",
+                         "Balboa"
+                     ],
+        "respuesta":  [
+                          "Calígula",
+                          "Balboa"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-147",
+        "numero":  147,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Amigos de Mafalda",
+        "opciones":  [
+                         "Manolito",
+                         "Miguelito",
+                         "Felipe",
+                         "Carlitos",
+                         "Jaimito"
+                     ],
+        "respuesta":  [
+                          "Carlitos",
+                          "Jaimito"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-148",
+        "numero":  148,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Artistas nacidos en México",
+        "opciones":  [
+                         "Agustín Lara",
+                         "Julieta Venegas",
+                         "Alejandro Fernández",
+                         "Fher Olvera",
+                         "Andrés Calamaro"
+                     ],
+        "respuesta":  [
+                          "Julieta Venegas",
+                          "Andrés Calamaro"
+                      ],
+        "explicacion":  "",
+        "origen":  "original_corregida"
+    },
+    {
+        "id":  "roja-149",
+        "numero":  149,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Volcanes",
+        "opciones":  [
+                         "Popocatépetl",
+                         "Kilimanjaro",
+                         "Etna",
+                         "Aconcagua",
+                         "K2"
+                     ],
+        "respuesta":  [
+                          "Aconcagua",
+                          "K2"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-150",
+        "numero":  150,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Héroes de la independencia latinoamericana",
+        "opciones":  [
+                         "José de San Martín",
+                         "José Joaquín de Olmedo",
+                         "Fulgencio Batista",
+                         "Simón Bolívar",
+                         "Salvador Allende"
+                     ],
+        "respuesta":  [
+                          "Fulgencio Batista",
+                          "Salvador Allende"
+                      ],
+        "explicacion":  "",
+        "origen":  "original"
+    },
+    {
+        "id":  "roja-151",
+        "numero":  151,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estos países no es atravesado por la cordillera de los Andes?",
+        "opciones":  [
+                         "Chile",
+                         "Perú",
+                         "Ecuador",
+                         "Uruguay"
+                     ],
+        "respuesta":  "Uruguay",
+        "explicacion":  "Los Andes atraviesan siete países sudamericanos, pero no Uruguay.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-152",
+        "numero":  152,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué elemento químico posee el símbolo W?",
+        "opciones":  [
+                         "Wolframio",
+                         "vanadio",
+                         "estaño",
+                         "uranio"
+                     ],
+        "respuesta":  "Wolframio",
+        "explicacion":  "El símbolo W procede del nombre histórico wolfram. También recibe el nombre de tungsteno.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-153",
+        "numero":  153,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estas novelas fue escrita por el ecuatoriano Jorge Icaza?",
+        "opciones":  [
+                         "Huasipungo",
+                         "Doña Bárbara",
+                         "La vorágine",
+                         "El túnel"
+                     ],
+        "respuesta":  "Huasipungo",
+        "explicacion":  "Fue publicada originalmente en 1934.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-154",
+        "numero":  154,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estos animales no es un mamífero?",
+        "opciones":  [
+                         "Delfín",
+                         "murciélago",
+                         "ballena",
+                         "ajolote"
+                     ],
+        "respuesta":  "Ajolote",
+        "explicacion":  "Es un anfibio perteneciente al grupo de las salamandras.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-155",
+        "numero":  155,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué planeta tiene el día más corto del sistema solar?",
+        "opciones":  [
+                         "Marte",
+                         "Júpiter",
+                         "Saturno",
+                         "Mercurio"
+                     ],
+        "respuesta":  "Júpiter",
+        "explicacion":  "Completa una rotación en aproximadamente 9,9 horas.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-156",
+        "numero":  156,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué escala se utiliza para comparar la dureza de los minerales?",
+        "opciones":  [
+                         "Mohs",
+                         "Richter",
+                         "Beaufort",
+                         "Mercalli"
+                     ],
+        "respuesta":  "Mohs",
+        "explicacion":  "Ordena minerales desde el talco, el más blando, hasta el diamante, el más duro.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-157",
+        "numero":  157,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estas palabras se lee igual de izquierda a derecha que de derecha a izquierda?",
+        "opciones":  [
+                         "Reconocer",
+                         "biblioteca",
+                         "carretera",
+                         "murciélago"
+                     ],
+        "respuesta":  "Reconocer",
+        "explicacion":  "Es un palíndromo.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-158",
+        "numero":  158,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estas novelas no fue escrita por Gabriel García Márquez?",
+        "opciones":  [
+                         "El amor en los tiempos del cólera",
+                         "Crónica de una muerte anunciada",
+                         "La ciudad y los perros",
+                         "El coronel no tiene quien le escriba"
+                     ],
+        "respuesta":  "La ciudad y los perros",
+        "explicacion":  "Es una novela de Mario Vargas Llosa.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-159",
+        "numero":  159,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué instrumento pertenece a la familia de viento madera aunque normalmente se fabrica con metal?",
+        "opciones":  [
+                         "Trompeta",
+                         "saxofón",
+                         "trombón",
+                         "tuba"
+                     ],
+        "respuesta":  "Saxofón",
+        "explicacion":  "Se clasifica como viento madera porque utiliza una lengüeta para producir el sonido.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-160",
+        "numero":  160,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué país sudamericano tiene el neerlandés como idioma oficial?",
+        "opciones":  [
+                         "Guyana",
+                         "Surinam",
+                         "Paraguay",
+                         "Uruguay"
+                     ],
+        "respuesta":  "Surinam",
+        "explicacion":  "El neerlandés es su única lengua oficial.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-161",
+        "numero":  161,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estos animales es un marsupial?",
+        "opciones":  [
+                         "Zarigüeya",
+                         "capibara",
+                         "armadillo",
+                         "perezoso"
+                     ],
+        "respuesta":  "Zarigüeya",
+        "explicacion":  "Las zarigüeyas pertenecen al grupo de los marsupiales americanos.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-162",
+        "numero":  162,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Qué ciudad ecuatoriana recibe tradicionalmente el sobrenombre de «Atenas del Ecuador»?",
+        "opciones":  [
+                         "Loja",
+                         "Cuenca",
+                         "Riobamba",
+                         "Ambato"
+                     ],
+        "respuesta":  "Cuenca",
+        "explicacion":  "El sobrenombre se relaciona con su tradición cultural y educativa.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-163",
+        "numero":  163,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "opcionometro",
+        "pregunta":  "¿Cuál de estas no es una lengua oficial de las Naciones Unidas?",
+        "opciones":  [
+                         "Árabe",
+                         "chino",
+                         "portugués",
+                         "ruso"
+                     ],
+        "respuesta":  "Portugués",
+        "explicacion":  "Las seis lenguas oficiales son árabe, chino, español, francés, inglés y ruso.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-164",
+        "numero":  164,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La cumbre del Chimborazo es el punto de la superficie terrestre más alejado del centro de la Tierra.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "La forma abultada de la Tierra en el ecuador hace que la cima del Chimborazo esté más lejos del centro terrestre que la del Everest.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-165",
+        "numero":  165,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Ecuador utiliza el dólar estadounidense como moneda oficial.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "Ecuador adoptó oficialmente el dólar en el año 2000.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-166",
+        "numero":  166,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Todos los murciélagos son completamente ciegos.",
+        "respuesta":  "Falso",
+        "explicacion":  "Todos poseen ojos y pueden ver, aunque algunas especies dependen más de la ecolocalización.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-167",
+        "numero":  167,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Los pulpos tienen tres corazones.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "Dos impulsan sangre hacia las branquias y uno hacia el resto del cuerpo.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-168",
+        "numero":  168,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La Antártida se considera un desierto.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "Recibe muy poca precipitación y es el continente más seco del planeta.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-169",
+        "numero":  169,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El sonido viaja más rápido en el agua que en el aire.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "En condiciones habituales, su velocidad en el agua es aproximadamente cuatro veces mayor.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-170",
+        "numero":  170,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "Venus es más caliente que Mercurio, aunque Mercurio está más cerca del Sol.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "La densa atmósfera de Venus retiene una enorme cantidad de calor.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-171",
+        "numero":  171,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La Gran Muralla China puede verse a simple vista desde la Luna.",
+        "respuesta":  "Falso",
+        "explicacion":  "Es demasiado estrecha para distinguirse sin ayuda desde esa distancia.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-172",
+        "numero":  172,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El símbolo químico del oro es Au.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "Procede de su nombre latino, aurum.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-173",
+        "numero":  173,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El koala pertenece a la familia de los osos.",
+        "respuesta":  "Falso",
+        "explicacion":  "Es un marsupial, no un oso.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-174",
+        "numero":  174,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El cero es un número par.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "Puede expresarse como 2 × 0, por lo que es divisible exactamente entre dos.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-175",
+        "numero":  175,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "El Canal de Panamá comunica los océanos Atlántico y Pacífico.",
+        "respuesta":  "Verdadero",
+        "explicacion":  "El canal tiene aproximadamente 80 kilómetros entre ambos océanos.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-176",
+        "numero":  176,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "si_o_no",
+        "afirmacion":  "La sangre humana es azul mientras circula por las venas.",
+        "respuesta":  "Falso",
+        "explicacion":  "La sangre siempre presenta tonos rojos; las venas parecen azules por la forma en que la piel absorbe y refleja la luz.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-177",
+        "numero":  177,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Si cinco máquinas fabrican cinco juguetes en cinco minutos, ¿cuánto tardarán cien máquinas en fabricar cien juguetes?",
+        "respuesta":  "Cinco minutos",
+        "explicacion":  "Cada máquina fabrica un juguete en cinco minutos.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-178",
+        "numero":  178,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué número sigue en la serie 1, 1, 2, 3, 5, 8?",
+        "respuesta":  "13",
+        "explicacion":  "Cada término es la suma de los dos anteriores.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-179",
+        "numero":  179,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Cuál es el menor número primo mayor que 50?",
+        "respuesta":  "53",
+        "explicacion":  "No es divisible entre 2, 3, 5 ni 7.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-180",
+        "numero":  180,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Si mañana será miércoles, ¿qué día fue ayer?",
+        "respuesta":  "Lunes",
+        "explicacion":  "Hoy tendría que ser martes.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-181",
+        "numero":  181,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Un cuadrado tiene un perímetro de 36 centímetros. ¿Cuánto mide cada lado?",
+        "respuesta":  "9 centímetros",
+        "explicacion":  "36 ÷ 4 = 9.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-182",
+        "numero":  182,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué continente es atravesado por la línea del ecuador, el trópico de Cáncer y el trópico de Capricornio?",
+        "respuesta":  "África",
+        "explicacion":  "Es el único continente atravesado por las tres líneas imaginarias.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-183",
+        "numero":  183,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué instrumento se utiliza para medir la presión atmosférica?",
+        "respuesta":  "Barómetro",
+        "explicacion":  "",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-184",
+        "numero":  184,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Si el alfabeto español tiene 27 letras y cinco de ellas son vocales, ¿cuántas son consonantes?",
+        "respuesta":  "22 consonantes",
+        "explicacion":  "27 − 5 = 22.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-185",
+        "numero":  185,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "En las cuatro esquinas de una habitación hay un gato. Cada gato puede ver a los otros tres. ¿Cuántos gatos hay?",
+        "respuesta":  "Cuatro gatos",
+        "explicacion":  "Todos observan a los mismos tres compañeros.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-186",
+        "numero":  186,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué número representa DCCXLII en números romanos?",
+        "respuesta":  "742",
+        "explicacion":  "D = 500, CC = 200, XL = 40 y II = 2.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-187",
+        "numero":  187,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "¿Qué ave puede escribirse utilizando, en orden, los símbolos químicos Co, Li, Br e I?",
+        "respuesta":  "Colibrí",
+        "explicacion":  "Co + Li + Br + I forma «colibrí», añadiendo la tilde correspondiente. Los símbolos pertenecen al cobalto, litio, bromo y yodo.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-188",
+        "numero":  188,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "sapienreto",
+        "pregunta":  "Una madre tiene cuatro hijas y cada hija tiene el mismo hermano. ¿Cuántos hijos tiene la madre?",
+        "respuesta":  "Cinco hijos",
+        "explicacion":  "Son cuatro hijas y un único hermano compartido.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-189",
+        "numero":  189,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Volcanes del Ecuador",
+        "opciones":  [
+                         "Cotopaxi",
+                         "Tungurahua",
+                         "Reventador",
+                         "Aconcagua",
+                         "K2"
+                     ],
+        "respuesta":  [
+                          "Aconcagua",
+                          "K2"
+                      ],
+        "explicacion":  "Los otros tres son volcanes ecuatorianos.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-190",
+        "numero":  190,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Sudamericanos ganadores del Premio Nobel de Literatura",
+        "opciones":  [
+                         "Gabriel García Márquez",
+                         "Pablo Neruda",
+                         "Gabriela Mistral",
+                         "Jorge Luis Borges",
+                         "Julio Cortázar"
+                     ],
+        "respuesta":  [
+                          "Jorge Luis Borges",
+                          "Julio Cortázar"
+                      ],
+        "explicacion":  "Los otros tres recibieron el Nobel de Literatura.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-191",
+        "numero":  191,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Huesecillos del oído medio",
+        "opciones":  [
+                         "Martillo",
+                         "yunque",
+                         "estribo",
+                         "clavícula",
+                         "rótula"
+                     ],
+        "respuesta":  [
+                          "Clavícula",
+                          "rótula"
+                      ],
+        "explicacion":  "Martillo, yunque y estribo son los tres huesecillos del oído medio.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-192",
+        "numero":  192,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Países sudamericanos atravesados por la línea del ecuador",
+        "opciones":  [
+                         "Ecuador",
+                         "Colombia",
+                         "Brasil",
+                         "Perú",
+                         "Bolivia"
+                     ],
+        "respuesta":  [
+                          "Perú",
+                          "Bolivia"
+                      ],
+        "explicacion":  "En Sudamérica, la línea ecuatorial atraviesa Ecuador, Colombia y Brasil.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-193",
+        "numero":  193,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Lenguas oficiales de las Naciones Unidas",
+        "opciones":  [
+                         "Español",
+                         "árabe",
+                         "chino",
+                         "portugués",
+                         "alemán"
+                     ],
+        "respuesta":  [
+                          "Portugués",
+                          "alemán"
+                      ],
+        "explicacion":  "Español, árabe y chino sí son lenguas oficiales de la ONU.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-194",
+        "numero":  194,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Películas de Pixar",
+        "opciones":  [
+                         "Coco",
+                         "Up",
+                         "Ratatouille",
+                         "Shrek",
+                         "La era de hielo"
+                     ],
+        "respuesta":  [
+                          "Shrek",
+                          "La era de hielo"
+                      ],
+        "explicacion":  "Las otras tres son producciones de Pixar.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-195",
+        "numero":  195,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Provincias de la región Sierra del Ecuador",
+        "opciones":  [
+                         "Pichincha",
+                         "Cotopaxi",
+                         "Loja",
+                         "Manabí",
+                         "Esmeraldas"
+                     ],
+        "respuesta":  [
+                          "Manabí",
+                          "Esmeraldas"
+                      ],
+        "explicacion":  "Ambas pertenecen a la región Costa.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-196",
+        "numero":  196,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Instrumentos de cuerda",
+        "opciones":  [
+                         "Violín",
+                         "arpa",
+                         "guitarra",
+                         "trompeta",
+                         "flauta"
+                     ],
+        "respuesta":  [
+                          "Trompeta",
+                          "flauta"
+                      ],
+        "explicacion":  "Las otras tres producen el sonido principalmente mediante cuerdas.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-197",
+        "numero":  197,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Dioses de la mitología griega",
+        "opciones":  [
+                         "Zeus",
+                         "Hera",
+                         "Atenea",
+                         "Thor",
+                         "Anubis"
+                     ],
+        "respuesta":  [
+                          "Thor",
+                          "Anubis"
+                      ],
+        "explicacion":  "Thor pertenece a la mitología nórdica y Anubis a la egipcia.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-198",
+        "numero":  198,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Fuentes de energía renovable",
+        "opciones":  [
+                         "Solar",
+                         "eólica",
+                         "geotérmica",
+                         "carbón",
+                         "gas natural"
+                     ],
+        "respuesta":  [
+                          "Carbón",
+                          "gas natural"
+                      ],
+        "explicacion":  "Son combustibles fósiles no renovables.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-199",
+        "numero":  199,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Lenguas romances",
+        "opciones":  [
+                         "Español",
+                         "francés",
+                         "portugués",
+                         "alemán",
+                         "euskera"
+                     ],
+        "respuesta":  [
+                          "Alemán",
+                          "euskera"
+                      ],
+        "explicacion":  "Las otras tres se desarrollaron a partir del latín.",
+        "origen":  "nueva"
+    },
+    {
+        "id":  "roja-200",
+        "numero":  200,
+        "familia":  "DatoNauta",
+        "color":  "rojo",
+        "variante":  "normal",
+        "dificultad":  "media",
+        "modalidad":  "par_de_dos",
+        "tema":  "Planetas del sistema solar que poseen anillos",
+        "opciones":  [
+                         "Júpiter",
+                         "Saturno",
+                         "Urano",
+                         "Tierra",
+                         "Marte"
+                     ],
+        "respuesta":  [
+                          "Tierra",
+                          "Marte"
+                      ],
+        "explicacion":  "Los cuatro planetas gigantes poseen sistemas de anillos; entre estas opciones aparecen Júpiter, Saturno y Urano.",
+        "origen":  "nueva"
+    }
+]

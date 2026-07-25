@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#111018">
+  <title>Cranium</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main class="app">
+    <section id="homeScreen" class="screen screen--active home-screen" aria-labelledby="mainTitle">
+      <div class="category-grid" aria-label="Categorías de Cranium">
+        <button class="category-quadrant quadrant--red" data-color="rojo">
+          <span class="quadrant__name">DatoNauta</span>
+          <span class="quadrant__count" data-count="rojo">0 de 0</span>
+        </button>
+
+        <button class="category-quadrant quadrant--blue" data-color="azul">
+          <span class="quadrant__name">Gato Creativo</span>
+          <span class="quadrant__count" data-count="azul">0 de 0</span>
+        </button>
+
+        <button class="category-quadrant quadrant--yellow" data-color="amarillo">
+          <span class="quadrant__name">Lombriletras</span>
+          <span class="quadrant__count" data-count="amarillo">0 de 0</span>
+        </button>
+
+        <button class="category-quadrant quadrant--green" data-color="verde">
+          <span class="quadrant__name">Star Estelar</span>
+          <span class="quadrant__count" data-count="verde">0 de 0</span>
+        </button>
+      </div>
+
+      <div class="brand-hub" aria-hidden="true">
+        <h1 id="mainTitle">CRANIUM</h1>
+      </div>
+
+      <button id="resetDecksButton" class="corner-button" type="button">Reiniciar mazos</button>
+      <p id="loadingMessage" class="loading-message">Cargando…</p>
+    </section>
+
+    <section id="cardScreen" class="screen card-screen" aria-live="polite">
+      <div class="card-stage">
+        <div id="flipCard" class="flip-card">
+          <div class="flip-card__inner">
+            <article id="cardFront" class="card-face card-face--front">
+              <header class="physical-card__header">
+                <div>
+                  <p id="familyName" class="family-name"></p>
+                  <h2 class="mode-heading mode-title-banner">
+                    <span id="modeName"></span>
+                    <span id="variantLabel"></span>
+                  </h2>
+                </div>
+              </header>
+
+              <div class="physical-card__rule">
+                <p id="modeInstruction"></p>
+                <button id="fullInstructionsButton" class="instruction-link" type="button">
+                  Ver instrucciones completas
+                </button>
+              </div>
+
+              <div id="cardContent" class="physical-card__content"></div>
+
+            </article>
+
+            <article id="cardBack" class="card-face card-face--back">
+              <div class="answer-side">
+                <p class="answer-side__eyebrow">RESPUESTA</p>
+                <div id="answerContent" class="answer-side__content"></div>
+              </div>
+
+            </article>
+          </div>
+        </div>
+
+        <div class="card-controls">
+          <button id="showAnswerButton" class="control-button control-button--primary" type="button">Mostrar respuesta</button>
+          <button id="backButton" class="control-button" type="button">Volver a categorías</button>
+          <button id="reportButton" class="control-button control-button--quiet" type="button">Reportar</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="reportDialog" class="report-dialog">
+    <form method="dialog" id="reportForm">
+      <div class="dialog-heading">
+        <div>
+          <p class="dialog-kicker">REVISIÓN</p>
+          <h2>Reportar tarjeta</h2>
+        </div>
+        <button class="dialog-close" value="cancel" aria-label="Cerrar">×</button>
+      </div>
+
+      <p id="reportCardReference" class="report-reference"></p>
+
+      <label for="reportReason">¿Qué problema encontraste?</label>
+      <select id="reportReason">
+        <option>La respuesta es incorrecta</option>
+        <option>La pregunta es ambigua</option>
+        <option>La tarjeta está desactualizada</option>
+        <option>Hay un error ortográfico</option>
+        <option>Otro problema</option>
+      </select>
+
+      <label for="reportDetails">Detalle opcional</label>
+      <textarea id="reportDetails" rows="4" placeholder="Describe brevemente el problema."></textarea>
+
+      <div class="dialog-actions">
+        <button id="copyReportButton" type="button" class="control-button control-button--primary">Copiar reporte</button>
+        <button value="cancel" class="control-button">Cancelar</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="instructionsDialog" class="instructions-dialog">
+    <div class="instructions-dialog__panel">
+      <header class="instructions-dialog__header">
+        <div>
+          <p class="dialog-kicker">CÓMO JUGAR</p>
+          <h2 id="instructionsDialogTitle"></h2>
+        </div>
+        <button id="closeInstructionsButton" class="dialog-close" type="button" aria-label="Cerrar">×</button>
+      </header>
+
+      <div class="instructions-dialog__body">
+        <p id="fullInstructionText"></p>
+      </div>
+    </div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
